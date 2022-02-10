@@ -1,6 +1,6 @@
-# Hi there<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> This is Aastha Aggarwal
+# Hi there<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="15px"> 
 
-**I'm a 2nd-year student at SRM University, pursuing a Bachelor Of Technology in the field of Computer Science with a specialization in Artificial Intelligence and Machine Learning.**
+**I'm Aastha Aggarwal, a 2nd-year student at SRM University, pursuing a Bachelor Of Technology in the field of Computer Science with a specialization in Artificial Intelligence and Machine Learning.**
 
 
 
@@ -13,7 +13,7 @@
 </table>
 --->
 
- #### Stats:
+ #### My Stats:
  <p align="center"> 
  
  <!--- <img src="https://activity-graph.herokuapp.com/graph?username=aastha170902&bg_color=0d1017&color=00ff00&point=11b819&area=true&line=00ff00&hide_border=true" alt="Contribution graph" />  --->
@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
- **Feel Free to connect!**
+ **Connect with me!**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanskritikhare/)](https://www.linkedin.com/in/aastha-aggarwal-39b1121b8/)
