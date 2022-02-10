@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aastha170902
+- 👋 Hi, I’m Aastha
 
 <!---
 <table>
