@@ -1,5 +1,7 @@
 # Hi there<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> This is Aastha Aggarwal
 
+**I'm a 2nd-year student at SRM University, pursuing a Bachelor Of Technology in the field of Computer Science with a specialization in Artificial Intelligence and Machine Learning.**
+
 
 
 <!---
