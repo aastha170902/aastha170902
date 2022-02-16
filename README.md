@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aastha170902&layout=compact)
+  <img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastha170902&layout=compact" alt:"Languages"/>
   </p>
 
 <!---
