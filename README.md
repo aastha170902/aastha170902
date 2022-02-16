@@ -21,9 +21,6 @@
   <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=aastha170902&show_icons=true&theme=radical" alt="Stats" />
 </p>
 
-<p>
-  <img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastha170902&layout=compact" alt:"Languages"/>
-  </p>
 
 <!---
 aastha170902/aastha170902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
